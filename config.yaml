@@ -1,0 +1,16 @@
+# Input Dimensions
+input_size: 1280
+enc_block_size: 225
+dec_block_size: 100
+vocab_size: 0
+padding_idx: 0
+start_idx: 0
+
+# Model hyperparameters
+batch_size: 8 # 12
+n_emb: 768
+n_head: 16 # 12
+n_layer: 6 # 12 
+dropout: 0.0 # 0.2
+bias: False
+device: 'cpu'

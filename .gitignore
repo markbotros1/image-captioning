@@ -1,0 +1,7 @@
+data
+wandb
+notebooks
+checkpoints
+
+__pycache__
+.DS_Store

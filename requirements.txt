@@ -1,0 +1,8 @@
+einops==0.7.0
+numpy==1.26.2
+Pillow==10.1.0
+pycocotools==2.0.7
+PyYAML==6.0.1
+torch==2.1.0
+torchvision
+transformers==4.34.1
